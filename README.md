@@ -3,8 +3,8 @@ Sample Bitcoin Wallet Sync Implementation for helping beignners how to sync bitc
 seed words accound address, public or private address.
 
 ## Permissions
-1- Internet
-2- Read External Storage
+1. Internet
+2. Read External Storage
 
 ## Build with
 Android 3.0.1
